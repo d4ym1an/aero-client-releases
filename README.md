@@ -1,4 +1,6 @@
-# Aero Client
+<img src="https://aeroclient.xyz/img/aero-banner.png"/>
+
+# Aero Client 
 
 A fast, lightweight desktop client for [Kirka.io](https://kirka.io), with performance settings, mods, weapon tweaks, sound packs, custom CSS and a resource swapper.
 
